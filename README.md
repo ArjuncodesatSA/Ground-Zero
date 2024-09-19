@@ -1,6 +1,6 @@
-Bean Warfare: A First-Person Shooter
+Ground Zero: A First-Person Shooter
 Introduction
-Bean Warfare is a first-person shooter (FPS) game where you, as a bean, have crash-landed on Earth and must escape from a laboratory. While your fellow beans plan to destroy the nearby town in retaliation for their mistreatment in the lab, 
+Ground Zero is a first-person shooter (FPS) game where you, as a bean, have crash-landed on Earth and must escape from a laboratory. While your fellow beans plan to destroy the nearby town in retaliation for their mistreatment in the lab, 
 you choose a different path: to stop them. Your mission is to explore the world, find the parts needed to rebuild a helicopter, and defeat the enemy beans scattered throughout.
 
 Key Features:
